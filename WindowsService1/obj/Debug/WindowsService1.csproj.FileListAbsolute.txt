@@ -1,0 +1,8 @@
+c:\users\harve\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+c:\users\harve\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+c:\users\harve\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\users\harve\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+c:\users\harve\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+c:\users\harve\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+c:\users\harve\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+c:\users\harve\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
